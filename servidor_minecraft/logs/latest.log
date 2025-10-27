@@ -1,0 +1,35 @@
+[16:53:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:53:20] [ServerMain/INFO]: Loaded 1461 recipes
+[16:53:20] [ServerMain/INFO]: Loaded 1574 advancements
+[16:53:20] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[16:53:20] [Server thread/INFO]: Loading properties
+[16:53:20] [Server thread/INFO]: Default game type: SURVIVAL
+[16:53:20] [Server thread/INFO]: Generating keypair
+[16:53:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:53:20] [Server thread/INFO]: Using epoll channel type
+[16:53:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:53:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:53:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:53:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:53:20] [Server thread/INFO]: Preparing level "world"
+[16:53:20] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:53:20] [Server thread/INFO]: Preparing spawn area: 100%
+[16:53:20] [Server thread/INFO]: Time elapsed: 16 ms
+[16:53:20] [Server thread/INFO]: Done (0.384s)! For help, type "help"
+[16:53:24] [Server thread/INFO]: MrDeren21[/127.255.178.45:56073] logged in with entity id 211 at (352.5, 66.0, -471.5)
+[16:53:24] [Server thread/INFO]: MrDeren21 joined the game
+[16:53:26] [Server thread/INFO]: Vodruk9029[/127.35.53.174:37853] logged in with entity id 306 at (351.41840477114766, 66.5625, -469.88285380093635)
+[16:53:26] [Server thread/INFO]: Vodruk9029 joined the game
+[16:53:33] [Server thread/INFO]: Mikuchost[/127.111.70.138:56831] logged in with entity id 441 at (645.6999999880791, 120.0, -292.69999998807907)
+[16:53:33] [Server thread/INFO]: Mikuchost joined the game
+[16:55:51] [Server thread/INFO]: MrDeren21 lost connection: Disconnected
+[16:55:51] [Server thread/INFO]: MrDeren21 left the game
+[16:55:51] [Server thread/INFO]: [Vodruk9029: Kicked MrDeren21: Kicked by an operator]
+[16:55:51] [Server thread/WARN]: handleDisconnection() called twice
+[17:11:12] [Server thread/INFO]: MrDeren21[/127.255.178.45:50845] logged in with entity id 9189 at (378.789367549127, 72.0, -494.21241139835206)
+[17:11:12] [Server thread/INFO]: MrDeren21 joined the game
+[17:11:52] [Server thread/INFO]: Mikuchost lost connection: Disconnected
+[17:11:52] [Server thread/INFO]: Mikuchost left the game
+[17:12:01] [Server thread/INFO]: Mikuchost[/127.111.70.138:41241] logged in with entity id 9634 at (733.5556993059058, 107.0, -257.30000001192093)
+[17:12:01] [Server thread/INFO]: Mikuchost joined the game
+[17:12:04] [Server thread/INFO]: [Not Secure] <MrDeren21> vixenp
